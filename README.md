@@ -18,10 +18,13 @@ El sitio presenta a Raíz Viva, una ONG dedicada a la restauración y protecció
 ## Estructura del proyecto
 
 ├── index.html
+
 ├── css/
 │   └── styles.css
+
 ├── img/
 │   └── (fotografías del sitio)
+
 └── pages/
     └── contacto.html
 
