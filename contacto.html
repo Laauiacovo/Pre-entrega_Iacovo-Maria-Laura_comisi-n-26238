@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sumate | Raíz Viva</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+  <header>
+    <a class="logo" href="../index.html">Raíz Viva</a>
+    <nav aria-label="Principal">
+      <ul>
+        <li><a href="../index.html">Inicio</a></li>
+        <li><a href="../index.html#proyectos">Proyectos</a></li>
+        <li><a href="../index.html#noticias">Noticias</a></li>
+        <li><a href="contacto.html" aria-current="page">Sumate</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <div class="contenedor">
+        <h1>Sumate como voluntario o voluntaria</h1>
+        <p>Dejanos tus datos y te escribimos con las próximas actividades.</p>
+        <form action="#" method="post">
+          <div class="campo">
+            <label for="nombre">Nombre y apellido</label>
+            <input type="text" id="nombre" name="nombre" required>
+          </div>
+          <div class="campo">
+            <label for="email">Correo electrónico</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+          <div class="campo">
+            <label for="edad">Edad</label>
+            <input type="number" id="edad" name="edad" min="16" max="99">
+          </div>
+          <div class="campo">
+            <label for="telefono">Teléfono</label>
+            <input type="tel" id="telefono" name="telefono">
+          </div>
+          <div class="campo">
+            <label for="proyecto">Proyecto de interés</label>
+            <select id="proyecto" name="proyecto">
+              <option value="humedal">Monitoreo en humedales</option>
+              <option value="bosque">Voluntariado en vivero de especies nativas</option>
+              <option value="residuos">Limpieza de márgenes de ríos</option>
+            </select>
+          </div>
+          <div class="campo">
+            <label for="mensaje">Contanos por qué querés sumarte</label>
+            <textarea id="mensaje" name="mensaje" rows="4"></textarea>
+          </div>
+          <button class="boton" type="submit">Enviar</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Raíz Viva · ONG ambiental</p>
+  </footer>
+</body>
+</html>
