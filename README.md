@@ -7,6 +7,7 @@ Propósito
 El sitio presenta a Raíz Viva, una ONG dedicada a la conservación de ecosistemas. Permite conocer sus proyectos, leer sus noticias ambientales y sumarse como voluntario o voluntaria a través de un formulario.
 
 Contenido
+
 Inicio (index.html): presentación de la organización, proyectos y noticias ambientales.
 Sumate (pages/contacto.html): formulario de inscripción para voluntariado.
 Tecnologías
