@@ -4,7 +4,7 @@ Sitio web de una organización ambiental, creado como pre-entrega del curso Fron
 
 ## Propósito ##
 
-El sitio presenta a Raíz Viva, una ONG dedicada a la conservación de ecosistemas. Permite conocer sus proyectos, leer sus noticias ambientales y sumarse como voluntario o voluntaria a través de un formulario.
+El sitio presenta a Raíz Viva, una ONG dedicada a la restauración y protección de ecosistemas. Permite conocer sus proyectos, leer sus noticias ambientales y sumarse como voluntario o voluntaria a través de un formulario.
 
 ## Contenido ##
 
