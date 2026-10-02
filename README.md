@@ -9,10 +9,15 @@ El sitio presenta a Raíz Viva, una ONG dedicada a la conservación de ecosistem
 Contenido
 
 Inicio (index.html): presentación de la organización, proyectos y noticias ambientales.
+
 Sumate (pages/contacto.html): formulario de inscripción para voluntariado.
+
 Tecnologías
+
 HTML5 con etiquetas semánticas
+
 CSS3 en un archivo externo, con Flexbox y media queries para que el sitio se adapte al celular y a la computadora
+
 Estructura del proyecto
 ├── index.html
 ├── css/
@@ -21,6 +26,7 @@ Estructura del proyecto
 │   └── (fotografías del sitio)
 └── pages/
     └── contacto.html
+
 Ver el sitio
 
 Sitio publicado: https://laauiacovo.github.io/Pre-entrega_Iacovo-Maria-Laura_comisi-n-26238/index.html
