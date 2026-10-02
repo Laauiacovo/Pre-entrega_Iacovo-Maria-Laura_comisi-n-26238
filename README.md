@@ -24,8 +24,4 @@ Ver el sitio
 
 Sitio publicado: https://laauiacovo.github.io/Pre-entrega_Iacovo-Maria-Laura_comisi-n-26238/index.html
 
-Para verlo en tu computadora, descargá el repositorio y abrí index.html en el navegador.
-
-Autoría
-
 Proyecto realizado por María Laura Iacovo como parte del curso Front-End JavaScript de Talento Tech.
